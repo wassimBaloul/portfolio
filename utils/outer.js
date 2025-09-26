@@ -11,7 +11,7 @@ const outer = {
         'A Web3 Explorer',
         'A Tech Traveler',
     ],
-    desciption: `A dedicated Full Stack Developer and Cybersecurity specialist with over 4 years of experience. I build secure and scalable web and mobile applications, delivering projects to clients locally and internationally. My background in cloud technologies and cybersecurity allows me to create robust, efficient, and safe solutions.`,
+    desciption: `A dedicated Full Stack Developer and Cybersecurity specialist with a good experience. I build secure and scalable web and mobile applications, delivering projects to clients locally and internationally. My background in cloud technologies and cybersecurity allows me to create robust, efficient, and safe solutions.`,
     button: {
         label: 'Contact me!',
         onClick: () => openLink('mailto:wassimbaloul16@example.com?subject=Hello') 
